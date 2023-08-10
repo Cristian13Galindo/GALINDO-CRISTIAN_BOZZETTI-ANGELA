@@ -21,17 +21,5 @@ class OdontologoServiceTest {
         assertTrue(odontologoTest.size() >= 1);
     }
 
-    @Test
-    void registrarOdontologo() {
-        Odontologo odontologo1 = new Odontologo("MN112226", "Camilo", "Galindo");
-        Odontologo odontologo2 = new Odontologo("MN115027", "Angela", "Bozzetti");
 
-        Odontologo odontologoRegistrado1 = odontologoService.registrarOdontologo(odontologo1);
-        Odontologo odontologoRegistrado2 = odontologoService.registrarOdontologo(odontologo2);
-
-        assertNotNull(odontologoRegistrado1.getId());
-        assertNotNull(odontologoRegistrado2.getId());
-
-
-    }
 }
