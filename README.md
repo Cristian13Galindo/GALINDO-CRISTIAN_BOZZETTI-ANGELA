@@ -1,4 +1,3 @@
-# GALINDO-CRISTIAN_BOZZETTI-ANGELA
 # Repositorio Primer Examen BackEnd  I Digital House
 
 ## Integrantes
