@@ -1,0 +1,84 @@
+[2023-08-09 23:24:41] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-09 23:24:41] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:24:41] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:26:31] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-09 23:26:32] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:26:32] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:26:43] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-09 23:26:43] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:26:43] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:28:07] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-09 23:28:07] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:28:07] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:30:10] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-09 23:30:10] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:30:11] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:31:23] [ ERROR] [OdontologoDaoH2:86] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-220]
+[2023-08-09 23:31:24] [ ERROR] [OdontologoDaoH2:93] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-08-09 23:31:24] [ ERROR] [OdontologoDaoH2:45] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-220]
+[2023-08-09 23:31:24] [ ERROR] [OdontologoDaoH2:61] Ha ocurrido un error al intentar cerrar la bdd. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-08-09 23:31:25] [ ERROR] [OdontologoDaoH2:45] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-220]
+[2023-08-09 23:31:25] [ ERROR] [OdontologoDaoH2:61] Ha ocurrido un error al intentar cerrar la bdd. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-08-09 23:33:05] [ ERROR] [OdontologoDaoH2:86] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-220]
+[2023-08-09 23:33:05] [ ERROR] [OdontologoDaoH2:93] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-08-09 23:33:06] [ ERROR] [OdontologoDaoH2:45] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-220]
+[2023-08-09 23:33:06] [ ERROR] [OdontologoDaoH2:61] Ha ocurrido un error al intentar cerrar la bdd. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-08-09 23:33:07] [ ERROR] [OdontologoDaoH2:45] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-220]
+[2023-08-09 23:33:07] [ ERROR] [OdontologoDaoH2:61] Ha ocurrido un error al intentar cerrar la bdd. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-08-09 23:33:37] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-09 23:33:37] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:33:37] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:34:45] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-09 23:34:45] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:34:45] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:35:52] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-09 23:35:52] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:35:52] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:38:25] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-09 23:38:25] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:38:25] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:50:12] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-09 23:50:12] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:50:12] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:51:41] [ ERROR] [OdontologoDaoH2:86] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-09 23:51:41] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
+[2023-08-09 23:51:41] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-220]
